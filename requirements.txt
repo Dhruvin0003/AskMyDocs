@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-cohere
+sentence-transformers
+pypdf
+unstructured
+faiss-cpu
+python-dotenv
+google-api-python-client
+serpapi
